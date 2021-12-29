@@ -28,6 +28,7 @@ I graduated from the Faculty of Mathematics and worked in a bank for 7 years. I'
 - PL/SQL (Oracle)
 - Git
 - Jira
+- Confluence
 
 ## **Code Example**
 
