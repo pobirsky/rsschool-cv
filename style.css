@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid rgb(40, 26, 235);
+    align-items: center;
+    flex-wrap: wrap;
+    flex-flow:  row wrap-reverse;
+    align-content: center;
+    position: absolute;
+}
+.container div {
+    min-width: 200px;
+    background-repeat: #aaa;
+    transition-duration: 500ms;
+    transition-property: margin-right;
+}
+.p {
+    font-style: unset;
+}
